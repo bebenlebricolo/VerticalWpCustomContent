@@ -1,0 +1,10 @@
+<wpml-config>
+	<admin-texts>
+		<key name="topbar_left" />
+		<key name="footer_left_text" />
+		<key name="footer_right_text" />
+		<key name="tab_content" />
+		<key name="tab_title" />
+		<key name="shop_aside_title" />
+	</admin-texts>
+</wpml-config>
